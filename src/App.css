@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto+Mono&display=swap');
+
+.App {
+  text-align: center;
+  display: flex;
+  margin: 0 auto;
+  max-width: 1460px;
+  padding: 0 15px;
+  min-height: 100vh;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: #FFFDF6;
+  font-family: 'Nunito', sans-serif;
+}
+
+@media (min-widith: 800px) {
+  .App {
+    padding: 0 100px;
+    margin-top: 5vh;
+    min-height: 90vh;
+  }
+}
+

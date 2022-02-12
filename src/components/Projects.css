@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto+Mono&display=swap');
+
+
+.projects {
+    flex-grow: 1;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+    align-items: left;
+  }
+
+.projects h1{
+    font-size:4.5ch;
+    margin-bottom: 20px;
+  }
+
+ .projects h2{
+    color: black;
+    text-align: left;
+    font-size: xx-large;
+}
+
+a {
+  color: #FFB8B8;
+}
+
+
+.coding_projects {
+    margin-top: 40px;
+    color: black;
+    text-align: left;
+}
+
+.coding_projects h2{
+    color: black;
+    text-align: left;
+}
+
+.coding_projects {
+    margin-left: 40px;
+    margin-bottom: 2rem;
+}
+
+.container_1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.mug_project {
+    flex-grow: 1;
+    min-width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+.wine_project {
+    flex-grow: 1;
+    min-width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+.pics {
+    max-width: 28%;
+    margin-top: 50px;
+    border-radius: 20px;
+    width: 17%;
+    margin-right: 40px;
+  }
+
+.maya_projects {
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+/*
+@keyframes bounce-in-right {
+    0% {
+      opacity: 0;
+      transform: translateX(2000px);
+    }
+    60% {
+      opacity: 1;
+    }
+    100% { transform: translateX(0); }
+  }
+
+  .projects h1 {
+    animation: bounce-in-right 2s ease;
+  }
+*/
+
+/*NEED TO FIX RESPONSIVENESS*/
+ 

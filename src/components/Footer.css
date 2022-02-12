@@ -1,0 +1,16 @@
+footer {
+    width: 100%;
+    padding: 10px 0;
+}
+
+#linkedin {
+    margin-right: 10px;
+}
+
+#github {
+    margin-right: 10px;
+}
+
+.footer_description {
+    margin-top: 1rem;
+}
