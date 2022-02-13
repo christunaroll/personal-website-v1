@@ -15,7 +15,7 @@ function Home() {
                 <p>My name is Christina!</p>
             </h1>
             <Link to="about">
-                <button className='glow-on-hover'>About Me!!</button>
+                <button className='glow-on-hover'>About Me!</button>
             </Link>
         </div>
     </div>

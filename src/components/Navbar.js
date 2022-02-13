@@ -73,7 +73,7 @@ function Navbar() {
               </Link>
             </li>
             <li> 
-              <a href='https://drive.google.com/file/d/1zeHW4tbAi2wglid0We3Q27xC4VaEN9lV/view' target="_blank" rel="noreferrer"
+              <a href='https://drive.google.com/file/d/1VGhVYYBgHyX9hia6xUAhiswSeoo6AkXo/view' target="_blank" rel="noreferrer"
                 to="/resume"
                 onClick={handleClose}
                 style={{ color: location.pathname === "/resume" && "#FFD1D1" }}>

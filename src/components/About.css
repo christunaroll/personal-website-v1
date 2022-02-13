@@ -10,13 +10,15 @@
   
   .about .description {
     width: 100%;
-    font-size: 15px;
+    font-size: 10px;
     text-align: center;
     font-family: 'Nunito', sans-serif;
+    margin-right: 5rem;
   }
   
+  
   .about .description p {
-    line-height: 50px;
+    line-height: 40px;
   }
   
   .about .profile_pic {
