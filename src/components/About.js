@@ -1,6 +1,6 @@
 import React from 'react'
 import "./About.css"
-import me from "../images/profilepic.jpg"
+import me from "../images/profile_pic.jpg"
 import cat from "../images/CatCup.svg"
 
 function About() {
