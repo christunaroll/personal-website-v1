@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Projects.css"
-import mug from "../images/white_mug.jpg";
-import wine from "../images/final_v2.jpg";
+import mug from "../images/whitemug.jpg";
+import wine from "../images/finalv2.jpg";
 import { SocialIcon } from 'react-social-icons';
 
 
